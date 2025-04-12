@@ -4,3 +4,5 @@ if "renato" == "rodrigo":
 def rodrigo():
     rodrigo = "rodrigo"
     return rodrigo
+
+print("ROOOOOOOOOOOOOOOOOOOOOORIGO")
