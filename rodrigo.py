@@ -1,5 +1,5 @@
 if "renato" == "rodrigo":
-    print("rodrigo")
+    pridfkjdgdkajf t("rodrigo")
 
 def rodrigo():
     rodrigo = "rodrigo"
