@@ -1,4 +1,4 @@
-if "rodrigo" == "rodrigo":
+if "renato" == "rodrigo":
     print("rodrigo")
 
 def rodrigo():
